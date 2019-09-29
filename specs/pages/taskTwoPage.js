@@ -1,5 +1,4 @@
 var assert = require('assert');
-// const productsOnPage = ["Sport", "Elektronika", "Firma i usługi"];
 
 var TaskTwoPage = function(){
 

@@ -19,4 +19,5 @@ describe('Tests for task 2', function() {
         });
         assert.equal(task2P.prodsOnPage().length,'18');
     });
+    
 });
